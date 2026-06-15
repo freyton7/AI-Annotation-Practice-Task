@@ -47,4 +47,4 @@ Career shifter transitioning from Team Lead & Technical Support into AI Annotati
 
 ## 📎 Live Demo
 
-👉 [View the Tool](https://claude.ai/public/artifacts/0ebd1e33-6566-46f0-9686-77584cb40e4b)
+👉 [View the Tool](https://freyton7.github.io/AI-Annotation-Practice-Task/)
